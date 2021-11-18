@@ -63,8 +63,3 @@ Currently available locales are:
 * 🔎 Search and play
 
 `/search Imperial March Trap Remix by Goblins from Mars`
-
-
-Main Credits go to [@eritislami](https://github.com/eritislami) for making evobot so pro..
-Get evobot repo here - 
-https://github.com/eritislami/evobot
